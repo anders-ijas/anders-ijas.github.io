@@ -1,0 +1,6 @@
+title: Anders Ijäs Portfolio
+description: Developer & Cybersecurity Analyst
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
