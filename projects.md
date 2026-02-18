@@ -6,17 +6,6 @@ css_class: project-mode
 # Projects & Certifications
 <p class="subtitle">A collection of my technical projects and professional qualifications.</p>
 
-{% comment %}
-## Projects
-<div class="gallery">
-  <div class="project-card">
-    <h3>Project Beta</h3>
-    <p>An automation script.</p>
-    <a href="https://github.com/myname/beta">View Code</a>
-  </div>
-</div>
-{% endcomment %}
-
 ## Certifications
 
 <div class="gallery">
