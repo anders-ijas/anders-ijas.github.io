@@ -18,8 +18,9 @@ css_class: project-mode
   <div class="project-card">
     <h3>Practical Threat Hunting from Mandiant</h3>
     <p>A Certification on completing the practical threat hunting course provided by Mandiant. Learned how to hunt for adversary activity and how to use and find data to our advantage. Used Velicoraptor & Python. </p>
-    <a href="https://cloud.google.com/learn/security/mandiant-academy-courses/threat-hunting">View Course Description</a>
     <span class="status-note">Certification available on request</span>
+    <a href="https://cloud.google.com/learn/security/mandiant-academy-courses/threat-hunting">View Course Description</a>
+
   </div>
   
 </div>
