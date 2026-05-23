@@ -22,5 +22,11 @@ css_class: project-mode
     <a href="https://cloud.google.com/learn/security/mandiant-academy-courses/threat-hunting">View Course Description</a>
 
   </div>
+
+  <div class="project-card">
+    <h3>Project in Object Oriented Design</h3>
+    <p>The project goal was to code object oriented java code. The project was to create the backend for a bike repair shop.</p>
+    <a href="https://github.com/anders-ijas/IV1350-Bike-Repair">View Project</a>
+  </div>
   
 </div>
